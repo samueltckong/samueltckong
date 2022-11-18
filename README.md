@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Kong
-- 👀 I’m interested in sofeware development and doing bachelor's degree in Digital Campus Paris
-- 🌱 I’m currently learning C++ && Rust
+- 👀 I’m interested in data science, machine learning and artificial intelligence
+- 🌱 I’m currently learning Python and its ecosystem
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : samuelkong@protonmail.com
 
