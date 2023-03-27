@@ -7,10 +7,10 @@ Basics :
 
 
 Projects :
-- 💬 Compass AI - AI career advisory chatbot (Honourable mention on Lablab AI hackathon)
-    	https://lablab.ai/event/ai-startup-hackathon/avid/compass-ai
-- 🔎 Research Pulse - NLP-powered assistive exploration of research papers (Transformers : MarianMT and BART)
-    	https://research-pulse.streamlit.app/
+- 💬 Compass AI - AI career advisory chatbot (Honourable mention on Lablab AI hackathon)<br />
+https://lablab.ai/event/ai-startup-hackathon/avid/compass-ai
+- 🔎 Research Pulse - NLP-powered assistive exploration of research papers (Transformers : MarianMT and BART)<br />
+https://research-pulse.streamlit.app/
 
 <!---
 smlkg/smlkg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
