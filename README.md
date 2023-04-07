@@ -3,7 +3,7 @@ Basics :
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 Currently conducting my master in data science and artificial intelligence in Paris
 - 💼 Searching for ML internships opportunities around Europe at the moment
-- 📫 How to reach me : samuelkong@protonmail.com
+- 📫 How to reach me : samuelkongwork@gmail.com
 
 
 Projects :
