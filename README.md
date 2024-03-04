@@ -1,8 +1,8 @@
 Basics : 
 - 👋 Hi, I’m Samuel Kong
-- 👀 I’m interested in data science, machine learning and artificial intelligence
-- 🌱 Currently conducting my master in data science and artificial intelligence in Paris
-- 💼 Searching for ML internships opportunities around Europe at the moment
+- 👀 I’m a data scientist wokring with automobiles
+- 🌱 Currently doing my master in data science and artificial intelligence in Paris
+- 💼 Searching for PhD opportunities across Europe at the moment
 - 📫 How to reach me : samuelkongwork@gmail.com
 
 
