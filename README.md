@@ -1,6 +1,6 @@
 Basics : 
 - 👋 Hi, I’m Samuel Kong
-- 👀 I’m a data scientist wokring with automobiles
+- 👀 I’m a data scientist working with automobiles
 - 🌱 Currently doing my master in data science and artificial intelligence in Paris
 - 💼 Searching for PhD opportunities across Europe at the moment
 - 📫 How to reach me : samuelkongwork@gmail.com
