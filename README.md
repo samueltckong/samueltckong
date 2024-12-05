@@ -12,6 +12,8 @@ https://lablab.ai/event/ai-startup-hackathon/avid/compass-ai
 - 🔎 Research Pulse - NLP-powered assistive exploration of research papers (Transformers : MarianMT and BART)<br />
 https://research-pulse.streamlit.app/
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <!---
 smlkg/smlkg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
