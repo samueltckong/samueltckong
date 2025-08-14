@@ -1,16 +1,26 @@
 Basics : 
 - 👋 Hi, I’m Samuel Kong
 - 👀 I’m a data scientist working with automobiles
-- 🌱 Currently doing my master in data science and artificial intelligence in Paris
-- 💼 Searching for PhD opportunities across Europe at the moment
+- 💼 Current PhD Student at Marseille Developmental Biology Institute, CNRS
+- 🌱 Currently working on multilayer networks of multi-omics data for mitochondrial metabolism
 - 📫 How to reach me : samuelkongwork@gmail.com
 
 
-Projects :
-- 💬 Compass AI - AI career advisory chatbot (Honourable mention on Lablab AI hackathon)<br />
+Flagship Projects :
+- AI Software Intelliegence Analytics : <br />
+https://github.com/samueltckong/Gordian-AI
+
+- Multi-Agent AI Platform for Clinical Diagnostics : <br />
+https://github.com/samueltckong/Healthcare_Life_Sciences_Hackathon
+
+- 💬 Compass AI - Integrated AI Services for Career Planning and Development (Honourable mention on Lablab AI hackathon)<br />
 https://lablab.ai/event/ai-startup-hackathon/avid/compass-ai
-- 🔎 Research Pulse - NLP-powered assistive exploration of research papers (Transformers : MarianMT and BART)<br />
+
+- 🔎 Research Pulse - AI Platform for Navigating Research at Scale (Transformers : MarianMT and BART)<br />
 https://research-pulse.streamlit.app/
+
+- Survival Analysis for Colon Cancer Prognosis : <br />
+https://github.com/samueltckong/Survival_Analysis_2025_DSTI
 
 <!---
 smlkg/smlkg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
