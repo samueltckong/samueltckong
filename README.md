@@ -13,10 +13,10 @@ https://github.com/samueltckong/Gordian-AI
 - Multi-Agent AI Platform for Clinical Diagnostics : <br />
 https://github.com/samueltckong/Healthcare_Life_Sciences_Hackathon
 
-- 💬 Compass AI - Integrated AI Services for Career Planning and Development (Honourable mention on Lablab AI hackathon)<br />
+- Compass AI - Integrated AI Services for Career Planning and Development (Honourable mention on Lablab AI hackathon)<br />
 https://lablab.ai/event/ai-startup-hackathon/avid/compass-ai
 
-- 🔎 Research Pulse - AI Platform for Navigating Research at Scale (Transformers : MarianMT and BART)<br />
+- Research Pulse - AI Platform for Navigating Research at Scale (Transformers : MarianMT and BART)<br />
 https://research-pulse.streamlit.app/
 
 - Survival Analysis for Colon Cancer Prognosis : <br />
