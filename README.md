@@ -7,7 +7,7 @@ Basics :
 
 
 Flagship Projects :
-- AI Software Intelliegence Analytics : <br />
+- AI Software Intelligence Analytics : <br />
 https://github.com/samueltckong/Gordian-AI
 
 - Multi-Agent AI Platform for Clinical Diagnostics : <br />
