@@ -1,6 +1,6 @@
 Basics : 
 - 👋 Hi, I’m Samuel Kong
-- 👀 I’m a data scientist working with biological problems
+- 👀 I’m a data scientist researching in mathematics and biology
 - 💼 Current PhD Student at Marseille Developmental Biology Institute, CNRS
 - 🌱 Currently working on multilayer networks of multi-omics data for mitochondrial metabolism
 - 📫 How to reach me : samuelkongwork@gmail.com
